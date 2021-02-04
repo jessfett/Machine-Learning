@@ -44,3 +44,6 @@ Expand on Project 2 (NYC Motor Vehicle Crashes: An Analysis) to complete machine
 
 ## Heroku Deployment
 [NYC Motor Vehicle Data: An Analysis](https://nyc-crashdata-2020.herokuapp.com/)
+
+## Presentation
+[Presentation](https://docs.google.com/presentation/d/1bIiPudrN-VoYUcMg5MpSYgBYjmHrwSVUWzxv0OJRc5o/edit?usp=sharing)
