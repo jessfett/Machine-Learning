@@ -4,14 +4,14 @@
 Expand on Project 2 (NYC Motor Vehicle Crashes: An Analysis) to complete machine learning algorithms to classify the hour of the day that is most likely to produce a crash with an injury, furthermore a fatality. 
 
 ## Dependencies
--Python
-  -Jupyter Notebook/Lab
--SQL
-  -PostgresQL
--HTML/CSS/BootStrap
-  -VS Code
--Heroku
-  -Deployment
+- Python
+  -J upyter Notebook/Lab
+- SQL
+  - PostgresQL
+- HTML/CSS/BootStrap
+  - VS Code
+- Heroku
+  - Deployment
 
 ## Libraries
 - Pandas
