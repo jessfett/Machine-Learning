@@ -5,7 +5,7 @@ Expand on Project 2 (NYC Motor Vehicle Crashes: An Analysis) to complete machine
 
 ## Dependencies
 - Python
-  -J upyter Notebook/Lab
+  - Jupyter Notebook/Lab
 - SQL
   - PostgresQL
 - HTML/CSS/BootStrap
